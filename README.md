@@ -24,7 +24,7 @@ template-ni bootstrap vasitəsilə maksimum səliqə ilə yığmaq.. Yadınızda
 <ul>
 <li>Tabs(Tabs menu jquery axtarış verib nümunələrə baxa bilersiz)</li>
 <li>Accordion</li>
-<li>Chat (əlavə olaraq yazılan mesajların üzərinə click elədikdə mesaj seçilsin və yuxarıda silmək işarəsi görsənsin və həmin işarəyə click edildikdə seçilən mesajlar silinsin)</li>
+<li>Əvvəlcədən yazdığımız Chat (əlavə olaraq yazılan mesajların üzərinə click elədikdə mesaj seçilsin və yuxarıda silmək işarəsi görsənsin və həmin işarəyə click edildikdə seçilən mesajlar silinsin)</li>
 </ul>
 </li>
 </ul>
